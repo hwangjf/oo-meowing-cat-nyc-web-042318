@@ -6,6 +6,7 @@ class Cat
   attr_accessor :name
   
   attr_reader :meow
+  puts "meow!"
   attr_accessor :meow
   
 end
