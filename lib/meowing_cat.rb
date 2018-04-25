@@ -1,6 +1,8 @@
 ## code your solution here. 
 
 class Cat
-  att
+  
+  attr_reader :name
+  attr_accessor
   
 end
